@@ -140,7 +140,7 @@ const getDadJoke = async () => {
 
 button.addEventListener("click", addNewJoke);
 ``` 
-También cambia está línea
+También cambia está línea en el README
 
 > Soy Estefania soto y cambié esto en una branch.
 
